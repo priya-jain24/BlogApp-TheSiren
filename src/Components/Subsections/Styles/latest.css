@@ -1,0 +1,27 @@
+.subsections{
+    margin-top:40px;
+}
+#latest-cards{
+    margin-top:40px;
+    display:flex;
+    
+}
+#latest-cards img{
+    height:230px;
+}
+#latest-cards .card{
+    margin-right:18px;
+    background-color: #fcfcfc;
+}
+#latest-cards .card-body{
+    padding:32px;
+}
+#latest-cards .card-body{
+    color:#404040;
+}
+.card-desc{
+    color:#908D8D;
+}
+.latest-date{
+    opacity:0.25;
+}

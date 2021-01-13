@@ -1,0 +1,19 @@
+#toppost-main img{
+    height:440px;
+}
+#toppost-main .card-img-overlay{
+    text-align:center;
+    color:white;
+    padding-top:164px;
+}
+#toppost-main .card-text{
+    margin-top:58px;
+}
+#TopPosts-section{
+    margin-top:144px;
+    height:584px;
+}
+#topPosts-head{
+    position: relative;
+    bottom:304px;
+}

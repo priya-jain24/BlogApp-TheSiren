@@ -1,0 +1,18 @@
+#latestArticle-cards{
+    margin-top:20px;
+}
+#latestArticle-cards .card{
+    display: flex;
+    flex-direction:row;
+    padding:0px 10px;
+}
+#latestArticle-cards .card-img{
+    width:30%;
+}
+#latestArticle-cards .card-body{
+    padding:0px 16px !important;
+    color:#404040;
+}
+.latest-date{
+    opacity:0.25;
+}

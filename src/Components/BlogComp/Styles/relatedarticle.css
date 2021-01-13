@@ -1,0 +1,24 @@
+#related-cards{
+    margin-top:40px;
+    display:flex;
+    justify-content: space-around;
+}
+#related-cards img{
+    height:220px;
+}
+#related-cards .card{
+    width:380px;
+    background-color: #fcfcfc;
+    margin-bottom:20px;
+}
+#related-cards .card-body{
+    padding:32px;
+    color:#404040;
+}
+#related-cards .author-detail img{
+    height:78px;
+}
+.relatedArticles{
+    background:#f9f7f7;
+    padding:0px 80px;
+}

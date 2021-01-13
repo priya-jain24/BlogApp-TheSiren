@@ -1,0 +1,12 @@
+#lateststory-cards{
+    margin-top:40px;
+    display:flex;
+    
+}
+.lateststory-hr{
+    margin-top:40px;
+}
+#lateststory-cards .card{
+    border-right:3px solid rgb(0,0,0,0.1);
+    border-radius:0px;
+}

@@ -1,0 +1,30 @@
+#header-nav{
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items:stretch;
+    padding-left:74px;
+    padding-right:74px;
+}
+.header-item a{
+    color:black !important;
+    font-weight:500;
+
+}
+hr{
+    border-width:3px !important;
+}
+#top-heading{
+    text-align: center;
+    margin-bottom:4px;
+}
+#top-heading h5, #top-heading h2{
+    display:inline-block;
+}
+#top-heading h2{
+    margin-left:-40px;
+}
+#slant-heading{
+    transform:rotate(-90deg);
+    width:120px;
+}

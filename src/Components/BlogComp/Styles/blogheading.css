@@ -1,0 +1,18 @@
+#blog-heading h6, #blog-heading h2{
+    display:inline-block;
+}
+#blog-heading h2{
+    margin-left:-35px;
+    position: relative;
+    top:7px;
+}
+#blog-heading #slant-heading{
+    position: relative;
+    bottom:40px;
+}
+.started-btn{
+    margin-top:8px;
+    border:1px solid #03A87C;
+    color:#03A87C;
+    
+}

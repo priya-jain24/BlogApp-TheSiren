@@ -1,0 +1,26 @@
+#topPosts-cards{
+    margin-top:20px;
+}
+#topPosts-cards .card-text{
+    color:#404040;
+}
+.card-id{
+    font-size:74px;
+    color:#F0F0F0 !important;
+}
+#topPost-othercards .card{
+    display: flex;
+    flex-direction: row;
+}
+#topPosts-cards .card{
+    display: flex;
+}
+#topPosts-cards .card-img{
+    width:25%;
+}
+#topPost-maincard img{
+    height:220px;
+}
+#topPost-othercards .card-body{
+    padding:0px 6px;
+}

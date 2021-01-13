@@ -1,0 +1,33 @@
+
+.top-cards{
+    display:flex;
+}
+#card-1 .card-img-overlay{
+    padding-top:285px;
+    padding-left:60px;
+}
+#card-2 .card-img-overlay, #card-3 .card-img-overlay{
+    padding-top:120px;
+    padding-left:20px;
+    padding-right:126px;
+}
+.card-img-overlay p {
+    opacity: 0.57;
+}
+.top-cards .card{
+    margin-right:4px;
+}
+.card{
+    border:2px solid white;
+    border-radius: 7px;
+}
+#card-2 .card-img, #card-3 .card-img{
+    height:248px;
+}
+
+.other-cards{
+    width:37%;
+}
+#card-1 img{
+    height:500px;
+}

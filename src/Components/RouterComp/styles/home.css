@@ -1,0 +1,13 @@
+.maincontainer{
+    margin-top:20px;
+    padding:15px 104px;
+  }
+  a:hover{
+    text-decoration:none !important;
+    cursor:pointer !important;
+    color:black !important;
+  }
+  a{
+    cursor:pointer !important;
+    color:black !important;
+  }
